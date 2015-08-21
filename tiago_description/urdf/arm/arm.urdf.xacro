@@ -250,7 +250,7 @@
     <!--************************-->
     <!--        WRIST           -->
     <!--************************-->
-    <xacro:wrist name="arm" parent="${name}_4_link" reflect="1"/>
+    <xacro:tiagowrist name="arm" parent="${name}_4_link" reflect="1"/>
 
     <!--***********************-->
     <!--        TOOL           -->
